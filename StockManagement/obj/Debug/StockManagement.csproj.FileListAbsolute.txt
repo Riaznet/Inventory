@@ -1,0 +1,15 @@
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\NewTemplate.Login.Login_.resources
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\NewTemplate.Dashboard.resources
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\NewTemplate.Parent.resources
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\NewTemplate.Stock.Product.AddCategory.resources
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\NewTemplate.Stock.Product.AddProduct.resources
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+H:\Desktop Apps\New Template\StockManagement\bin\Debug\StockManagement.exe.config
+H:\Desktop Apps\New Template\StockManagement\bin\Debug\StockManagement.exe
+H:\Desktop Apps\New Template\StockManagement\bin\Debug\StockManagement.pdb
+H:\Desktop Apps\New Template\StockManagement\bin\Debug\FontAwesome.Sharp.dll
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\StockManagement.csproj.CopyComplete
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\StockManagement.exe
+H:\Desktop Apps\New Template\StockManagement\obj\Debug\StockManagement.pdb

@@ -1,0 +1,13 @@
+H:\Desktop Apps\New Template\Common\bin\Debug\net5.0\Common.deps.json
+H:\Desktop Apps\New Template\Common\bin\Debug\net5.0\Common.dll
+H:\Desktop Apps\New Template\Common\bin\Debug\net5.0\ref\Common.dll
+H:\Desktop Apps\New Template\Common\bin\Debug\net5.0\Common.pdb
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.dll
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\ref\Common.dll
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.pdb
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.csproj.ResolveComReference.cache
+H:\Desktop Apps\New Template\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache

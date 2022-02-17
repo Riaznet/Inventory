@@ -1,0 +1,12 @@
+H:\Desktop Apps\New Template\Domain\bin\Debug\net5.0\Domain.deps.json
+H:\Desktop Apps\New Template\Domain\bin\Debug\net5.0\Domain.dll
+H:\Desktop Apps\New Template\Domain\bin\Debug\net5.0\ref\Domain.dll
+H:\Desktop Apps\New Template\Domain\bin\Debug\net5.0\Domain.pdb
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\Domain.dll
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\ref\Domain.dll
+H:\Desktop Apps\New Template\Domain\obj\Debug\net5.0\Domain.pdb

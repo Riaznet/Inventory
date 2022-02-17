@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\Background.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\CustomerSupplier\AddCustomerSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\CustomerSupplier\Report\CustomerSupplierList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Due\DueReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Due\Report\DueCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Due\Report\DueInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\OthersReport\ClosingStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\OthersReport\MinMaxStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\OthersReport\ProfitAndLoss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\OthersReport\StoreDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\OthersReport\TopSellingPurchasing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Parent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\AddDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\AddUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\CreateBarcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\ProductCreateByUpload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\Report\ProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\Report\ProductRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Product\Report\ProductStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\AddPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\PurchaseReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\Report\PurchaseMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\Report\PurchaseReturnMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\Report\PurchaseReturnStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\Report\PurchaseStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\Report\PurchaseStatementStoreWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\Report\PurchaseStatementSupplierWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Purchase\Report\PurchaseStatementUserWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\AddSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\AddSalesReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\Report\SalesMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\Report\SalesReturnMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\Report\SalesReturnStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\Report\SalesStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\Report\SalesStatementCustomerWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\Report\SalesStatementStoreWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Sales\Report\SaleStatementUserWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Store\AddStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Transfer\AddTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Transfer\Report\TransferMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Transfer\Report\TransferStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Wastage\AddWastage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock\Wastage\Report\WastageStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
